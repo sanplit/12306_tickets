@@ -10,7 +10,7 @@
    对应的自行百度吧，找不到对应的，就都下载最新的或最近更新的试试，我的就是这样成的！
     
   3、目的地的cookies
-    进入12306查询你需要的出发地=》目的地的车票，按F12进入调试模式，点击查询->Network(如下图)，_jc_save_formStation,_jc_save_toStation即分别为所需出发地、目的地的Cookies
+    进入12306查询你需要的出发地=》目的地的车票，按F12进入调试模式，点击查询->Network->点击跳转的链接即可查看到Cookies，_jc_save_formStation,_jc_save_toStation即分别为所需出发地、目的地的Cookies
     ![show_place_cookies](https://github.com/sanplit/public/blob/master/images/12306_tickets/show_place_cookies.png)
     
 ### 仅需修改如下内容
