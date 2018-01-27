@@ -11,7 +11,6 @@
     
   3、目的地的cookies
     进入12306查询你需要的出发地=》目的地的车票，按F12进入调试模式，点击查询->Network->点击跳转的链接即可查看到Cookies，_jc_save_formStation,_jc_save_toStation即分别为所需出发地、目的地的Cookies
-    ![show_place_cookies](https://github.com/sanplit/public/blob/master/images/12306_tickets/show_place_cookies.png)
     
 ### 仅需修改如下内容
 ```
@@ -33,3 +32,5 @@ pz=u"成人票"
 ```
     
 浏览器提示不安全，需要开发模式等等，都是因为浏览器与驱动不对应，赶快换一个试试吧~
+
+我觉得...这些都是多余的
