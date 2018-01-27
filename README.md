@@ -1,6 +1,6 @@
 ## 自动抢票回家
 
-#### 运行环境： Python3 + Window7
+#### 测试环境： Python3 + Window7
 
 ### 准备工作
 
